@@ -1,1 +1,50 @@
-# myanmar2d_ap
+# myanmar2d_apHTML
+
+<!DOCTYPE html>
+<html lang="my">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MYANMAR 2D</title>
+<style>
+body {
+  margin: 0;
+  background: #071426;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+header {
+  background: #102b4b;
+  padding: 25px;
+  color: #f4c542;
+  font-size: 25px;
+  font-weight: bold;
+}
+.card {
+  background: #142b45;
+  margin: 25px 15px;
+  padding: 25px;
+  border-radius: 16px;
+}
+.number {
+  color: #f4c542;
+  font-size: 55px;
+  font-weight: bold;
+  margin-top: 15px;
+}
+</style>
+</head>
+<body>
+<header>MYANMAR 2D</header>
+<div class="card">
+  မနက်ပိုင်း
+  <div class="number">--</div>
+</div>
+<div class="card">
+  ညနေပိုင်း
+  <div class="number">--</div>
+</div>
+</body>
+</html>
+
